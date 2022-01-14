@@ -8,6 +8,10 @@
 - Operadores
 - Funções
 
-![Certificado](https://github.com/developer-fernanda/fundamentosDoJavaScript-modulo1/blob/master/Certificado.png)
+![Certificado](https://github.com/developer-fernanda/JavaScript-back-end/blob/master/tipos_vari%C3%A1veis_fun%C3%A7%C3%B5es/Certificado.png)
 
-![Certificado](https://github.com/developer-fernanda/fundamentosDoJavaScript-modulo1/blob/master/Certificado%20Formal.png)
+![Certificado](https://github.com/developer-fernanda/JavaScript-back-end/blob/master/tipos_vari%C3%A1veis_fun%C3%A7%C3%B5es/Certificado%20Formal.png)
+
+
+
+
